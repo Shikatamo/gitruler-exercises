@@ -18,8 +18,8 @@ Each of the exercises can be completed as follows:
 
 ## Exercises
 
-1. [Section A](https://github.com/UOL-CS/gitruler-a-1) - configuring git, committing updates to tracked files and pushing changes to origin.
-1. [Section B](https://github.com/UOL-CS/gitruler-b-1) - Tracking a new file, staging specific files for a commit and checking the repository status.
-1. [Section C](https://github.com/UOL-CS/gitruler-c-1) - Ignoring moving and removing files in git.
-1. [Section D](https://github.com/UOL-CS/gitruler-d-1) - Tagging and using git to view a log of commits and differences between versions.
-1. [Section E](https://github.com/UOL-CS/gitruler-e-1) - Branching and merging and resolving merge conflicts.
+1. [Section A](https://github.com/Shikatamo/gitruler-a-1) - configuring git, committing updates to tracked files and pushing changes to origin.
+1. [Section B](https://github.com/Shikatamo/gitruler-b-1) - Tracking a new file, staging specific files for a commit and checking the repository status.
+1. [Section C](https://github.com/Shikatamo/gitruler-c-1) - Ignoring moving and removing files in git.
+1. [Section D](https://github.com/Shikatamo/gitruler-d-1) - Tagging and using git to view a log of commits and differences between versions.
+1. [Section E](https://github.com/Shikatamo/gitruler-e-1) - Branching and merging and resolving merge conflicts.
